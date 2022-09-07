@@ -1,2 +1,2 @@
 # Cypress_T
-Testing Cypress
+Developing my own project with Cypress
